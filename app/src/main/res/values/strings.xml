@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <!-- WeatherCard -->
+    <string name="weather_clear_sky">Cerah</string>
+    <string name="weather_few_clouds">Sedikit berawan</string>
+    <string name="weather_clouds">Berawan</string>
+    <string name="weather_light_rain">Hujan ringan</string>
+    <string name="weather_rain">Hujan</string>
+    <string name="weather_thunderstorm">Petir</string>
+
+
+    <string name="search_location">Cari lokasi...</string>
+    <string name="loading">Memuat...</string>
+    <!-- Air Quality Card -->
+    <string name="feels_like">Terasa seperti %d°</string>
+    <string name="today_date_format">EEEE, dd MMMM yyyy</string>
+
+    <string name="clouds">Awan</string>
+    <string name="air_quality">Kualitas Udara</string>
+    <string name="real_feel">Terasa Seperti</string>
+    <string name="wind">Angin</string>
+    <string name="humidity">Kelembapan</string>
+    <string name="rain">Hujan</string>
+    <string name="so2">SO₂</string>
+    <string name="o3">O₃</string>
+
+    <!-- Weekly Forecast -->
+    <string name="weekly_forecast">Prakiraan Mingguan</string>
+</resources>
